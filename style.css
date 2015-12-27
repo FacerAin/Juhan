@@ -1,0 +1,14 @@
+#logo{
+    width:100px;
+    height:125px;
+}
+.container{
+    padding-top:20px;
+}
+#control{
+    margin-bottom:40px;
+    float:right;
+}
+#idcontrol{
+    float:right;
+}
