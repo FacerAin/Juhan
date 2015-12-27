@@ -1,12 +1,12 @@
 
- <html>
- <head>
- <title></title>
- </head>
+<html>
+ 	<head>
+    	<title>주한위키, 우리 모두의 주한</title>
+ 	</head>
 
- <frameset rows="0,*" frameborder="NO" border="0" framespacing="0" cols="*">
-   <frame name="top" scrolling="NO" noresize src="hidden.html" >
-   <frame name="main" src="main.php">
- </frameset>
-
- </html>
+	<body>
+ 		<iframe name="top" height=0 width=0 src="hidden.html"></iframe>
+ 		<iframe name="main" src="main.php"></iframe>
+ 		<iframe src="login_form.php"></iframe>
+	</body>
+</html>
